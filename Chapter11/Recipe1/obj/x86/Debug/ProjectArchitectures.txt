@@ -1,0 +1,1 @@
+C:\Users\lli\Desktop\MultithreadingwithCCookbookSecondEdition_Code\MultithreadingwithCCookbookSecondEdition_Code\Chapter11\Recipe1\Recipe1.csproj;x86
